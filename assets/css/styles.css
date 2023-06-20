@@ -1,0 +1,23 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.barra {
+  background-color: #28a745 !important;
+}
+
+.preciocolor {
+  color: #28a745 !important;
+  font-weight: 900;
+  font-size: large;
+}
+
+.textocolor {
+  color: #707070 !important;
+  font-weight: 300;
+}
+
+.textofooter {
+  color: white !important;
+  font-weight: 500;
+}
